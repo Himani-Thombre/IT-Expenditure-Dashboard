@@ -38,7 +38,7 @@ The dashboard compares actual expenditure, forecast expenditure, and planned cos
 
 ## 📈 Dashboard Preview
 
-![IT Expenditure Dashboard](IT_Expenditure_Dashboard.png)
+![IT Expenditure Dashboard](IT_Expenditure_DashBoard.png)
 
 ## ✨ Dashboard Features
 
