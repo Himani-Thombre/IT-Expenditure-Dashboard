@@ -65,7 +65,7 @@ The dashboard compares actual expenditure, forecast expenditure, and planned cos
 |---|---|
 | `IT Expenditure Dashboard.pbix` | Power BI dashboard file |
 | `Dataset.xlsx` | Excel dataset used for analysis |
-| `IT_Expenditure_Dashboard.png` | Dashboard screenshot |
+| `IT Expenditure DashBoard.png` | Dashboard screenshot |
 | `README.md` | Project documentation |
 
 ## 📂 Dataset Description
